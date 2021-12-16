@@ -1,10 +1,8 @@
-## Geothermal field development plan completed as part of european [SPE Energy GeoHackathon 2021](https://www.spehackathon-eu.com). Team "GeoRocks".
-* [Model](https://github.com/borisenko-ru/spe_geothermal_hackathon/tree/main/01_GeoRocks/Jupyter/02_Econ_20Years)
-* [Report](https://github.com/borisenko-ru/spe_geothermal_hackathon/blob/main/01_GeoRocks/20211215_GeoHackathon_Report_GeoRocks_v3.pdf)
-* [Presentation](https://github.com/borisenko-ru/spe_geothermal_hackathon/blob/main/01_GeoRocks/20211215_GeoHackathon_FDP_Close_Out_GeoRocks_v3.pptx)
+## Models of geothermal field development plan for two demand locations for the period of 20 years:
+* [D1 demand location](https://github.com/borisenko-ru/spe_geothermal_hackathon/blob/main/01_GeoRocks/Jupyter/02_Econ_20Years/Econ_D1.ipynb)
+* [D2 demand location](https://github.com/borisenko-ru/spe_geothermal_hackathon/blob/main/01_GeoRocks/Jupyter/02_Econ_20Years/Econ_D2.ipynb)
 
 _#DatafyingEnergy_
-
 
 ## Contacts
 
