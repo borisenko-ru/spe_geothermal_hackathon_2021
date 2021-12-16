@@ -1,4 +1,4 @@
-## Models of geothermal field development plan for two demand locations for the period of 20 years:
+## Models of geothermal field development plan for two demand locations for the period of 20 years
 * [D1 demand location](https://github.com/borisenko-ru/spe_geothermal_hackathon/blob/main/01_GeoRocks/Jupyter/02_Econ_20Years/Econ_D1.ipynb)
 * [D2 demand location](https://github.com/borisenko-ru/spe_geothermal_hackathon/blob/main/01_GeoRocks/Jupyter/02_Econ_20Years/Econ_D2.ipynb)
 
