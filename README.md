@@ -5,6 +5,8 @@
 
 _#DatafyingEnergy_
 
+## [📜Diploma](https://github.com/borisenko-ru/spe_geothermal_hackathon/blob/main/spe_geohackathon diploma.pdf)
+
 ## Contacts
 
 [<img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384088.png" width="20" />](https://www.linkedin.com/in/borisenkoru/) 
